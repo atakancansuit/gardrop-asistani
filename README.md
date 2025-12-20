@@ -16,7 +16,7 @@ Bu proje, kişisel kıyafet envanterini yönetmek, dijital ortamda kombinler olu
 <img width="1900" height="857" alt="Ekran görüntüsü 2025-12-20 015750" src="https://github.com/user-attachments/assets/374013b8-ae7c-4220-a66b-cfc72d7081b1" />
 
 ### Kombin Oluşturma
-<img width="1916" height="848" alt="Ekran görüntüsü 2025-12-20 015858" src="https://github.com/user-attachments/assets/87140e99-bb58-4b23-a4a7-2f9bc12a90ac" />
+<img width="1884" height="815" alt="Ekran görüntüsü 2025-12-20 193741" src="https://github.com/user-attachments/assets/1e9498f2-f6f3-4d3b-a510-d483301b27dc" />
 
 ### Kombinleri görme
 <img width="568" height="688" alt="Ekran görüntüsü 2025-12-20 020042" src="https://github.com/user-attachments/assets/f3546380-78e9-41fb-8049-1e68f08f8c2f" />
